@@ -1,1 +1,10 @@
 with our pebbleapp you can share data just like name contact id etc with people on same geolocation.
+This happens via this android app in cojugaton with cloudpebble.
+
+we sent the loction to firebase server and fetch the data stored in others app.
+
+this has a wide application
+
+furthur updates:(not completed on time):
+-Sentiment through speech recognition(by HavenoDemand apis)
+
