@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "713761457019",
+    "firebase_url": "https://pebble-handshake.firebaseio.com",
+    "project_id": "pebble-handshake",
+    "storage_bucket": "pebble-handshake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713761457019:android:69559224569003ca",
+        "android_client_info": {
+          "package_name": "com.example.rishab.pebble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713761457019-blbpof8lkn29568u7i3jgj3phcjghf02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoipki5w4kxxqUBUlenJiNude4L1X5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
